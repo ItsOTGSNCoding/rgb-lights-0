@@ -1,0 +1,22 @@
+{
+    "name": "RGB Lights 0",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "pxt-hummingbird-bit": "github:birdbraintechnologies/pxt-hummingbird-bit#v0.0.7",
+        "microphone": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
